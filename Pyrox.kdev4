@@ -1,0 +1,4 @@
+[Project]
+Name=Pyrox
+Manager=KDevCMakeManager
+VersionControl=kdevgit
