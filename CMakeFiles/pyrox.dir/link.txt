@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/pyrox.dir/ev_test.c.o CMakeFiles/pyrox.dir/main.c.o  -o pyrox -rdynamic -lev -lpython2.7 
